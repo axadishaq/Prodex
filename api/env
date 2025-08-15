@@ -1,0 +1,2 @@
+MONGO_DB="mongodb+srv://axadishaqofficial:mxa0DRGDhac80Pt4@cluster0.jelct1a.mongodb.net/MyProducts"
+CREATE_RANDOM_SECRET = openssl rand -base64 32
